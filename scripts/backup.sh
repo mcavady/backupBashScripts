@@ -1,4 +1,7 @@
 #!/bin/bash
+
+#Backup files and directory script @author James Mcavady
+
 # dirs to backup
   backup_files="/www /sites-enabled /sites-available"
 #save zip file else were on the server, where <USERNAME> is your user name.
