@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Backup files and directory script @author James Mcavady 2014
+#Backup files and directory script @author James Mcavady 2014 E-mail may not send due to your file permission settings
 
 # dirs to backup
   backup_files="/www /sites-enabled /sites-available"
