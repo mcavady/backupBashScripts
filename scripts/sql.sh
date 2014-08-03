@@ -1,5 +1,5 @@
 #!/bin/bash
-#sql script for backing up databases and zipping them
+#sql script for backing up databases and zipping them this may not send the email, users perms will have to be set by the user running this script 
 
 
 #sql backup user, user name and password for the mysql user you want to use this script
