@@ -1,4 +1,6 @@
 #!/bin/bash
+#sql script for backing up databases and zipping them
+
 
 #sql backup user, user name and password for the mysql user you want to use this script
   DB_USER=""

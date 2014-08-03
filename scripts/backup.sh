@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Backup files and directory script @author James Mcavady
+#Backup files and directory script @author James Mcavady 2014
 
 # dirs to backup
   backup_files="/www /sites-enabled /sites-available"
